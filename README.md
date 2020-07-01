@@ -30,3 +30,6 @@
        Мы будем делать сайт посвященный адвокатскому делу https://themeforest.net/category/site-templates?term=attorney
        http://preview.themeforest.net/item/kodelaw-lawyer-attorney-html5-template/full_screen_preview/26209258?_ga=2.224375323.1038295208.1593098560-451532998.1583438846
        http://themexriver.com/tfhtml/rexlaw/team.html
+       
+# МОИ ВОПРОСЫ
+    1)
